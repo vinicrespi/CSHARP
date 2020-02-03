@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\codenation\\csharp-3\\Source\\Source.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source\\Source.csproj",
       "projectName": "Source",
-      "projectPath": "C:\\Users\\vinic\\codenation\\csharp-3\\Source\\Source.csproj",
+      "projectPath": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source\\Source.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\codenation\\csharp-3\\Source\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

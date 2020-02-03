@@ -5913,11 +5913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\codenation\\csharp-3\\Source.Test\\Source.Test.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source.Test\\Source.Test.csproj",
       "projectName": "Source.Test",
-      "projectPath": "C:\\Users\\vinic\\codenation\\csharp-3\\Source.Test\\Source.Test.csproj",
+      "projectPath": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source.Test\\Source.Test.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\codenation\\csharp-3\\Source.Test\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5936,8 +5936,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\vinic\\codenation\\csharp-3\\Source\\Source.csproj": {
-              "projectPath": "C:\\Users\\vinic\\codenation\\csharp-3\\Source\\Source.csproj"
+            "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source\\Source.csproj": {
+              "projectPath": "C:\\Users\\vinic\\Documents\\CSHARP\\csharp-3\\Source\\Source.csproj"
             }
           }
         }

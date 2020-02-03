@@ -19,13 +19,8 @@ namespace Codenation.Challenge
             states[7] = new State("Maranhão", "MA");
             states[8] = new State("Rio Grande do Sul", "RS");
             states[9] = new State("Tocantins", "TO");
-
-            State[] result = new State[10];
-
-            for (int i = 0; i < result.Length; i++)
-                result[i] = states[i];
             
-            return result;
+            return states;
 
             throw new NotImplementedException();
         }
